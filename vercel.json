@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/gglife", "destination": "/gglife.html" },
+    { "source": "/par", "destination": "/par.html" },
+    { "source": "/ggcamp", "destination": "/ggcamp.html" },
+    { "source": "/sites", "destination": "/sites.html" },
+    { "source": "/ggteam", "destination": "/ggteam.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
+}
