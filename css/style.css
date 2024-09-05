@@ -726,7 +726,7 @@ margin: 0;
   }
 
   .navbar-collapse {
-    background: rgb(224, 5, 5);
+    background: rgb(1 95 34);
     margin-top: 19px;
   }
 }
@@ -4407,7 +4407,7 @@ h4 {
 }
 
 .circle-wrapper {
-  z-index: 1;
+  z-index: 10;
 }
 
 @media only screen and (max-width: 1200px) {

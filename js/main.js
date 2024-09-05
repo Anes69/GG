@@ -39,7 +39,7 @@ $(function () {
         loop: false,
         speed: 1200,
         grabCursor: true,
-        mousewheel: true,
+        mousewheel: false,
         keyboard: true,
         simulateTouch: true,
         parallax: true,
