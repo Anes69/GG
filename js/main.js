@@ -36,9 +36,9 @@ $(function () {
         preloadImages: false,
         autoplay: false,
         init: true,
-        loop: false,
-        speed: 1200,
-        grabCursor: true,
+        loop: true,
+        speed: 900,
+        grabCursor: false,
         mousewheel: false,
         keyboard: true,
         simulateTouch: true,
@@ -49,7 +49,7 @@ $(function () {
             nextEl: ".slide-next",
             prevEl: ".slide-prev"
         },
-        scrollbar: false
+        scrollbar: false,
     });
     swiper1.on("slideChangeTransitionStart", function () {
         $(".hero-bg").find("video").each(function () {
@@ -236,6 +236,5 @@ $(function () {
         }
         return !1;
     });
-
 
 });
