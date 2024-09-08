@@ -72,6 +72,9 @@
 .bg-img-4 {
   background-image: url(../img/IFCM1-1.jpg);
 }
+.bg-img-5 {
+  background-image: url(../img/PAR_PHOTO_1.jpg);
+}
 
 
 /* 1.2. team IMG BACKGROUND */
@@ -4585,7 +4588,7 @@ a.button-effect .pulse::before,
   -webkit-pointer-events: none;
   -moz-pointer-events: none;
   pointer-events: none;
-  background: rgba(10, 130, 114, 0.45);
+  background: rgba(10, 130, 114, 0.199);
 }
 
 
